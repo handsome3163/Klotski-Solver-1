@@ -1,4 +1,0 @@
-Klotski-Solver
-==============
-
-Solves Klotski
